@@ -125,8 +125,7 @@ Usage
 Open your browser and navigate to http://localhost:3000 to see the portfolio website.
 
 Project Structure
-css
-Copy code
+
 portfolio/
 ├── public/
 │   ├── index.html
@@ -149,6 +148,7 @@ portfolio/
 ├── .gitignore
 ├── README.md
 └── package.json
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
